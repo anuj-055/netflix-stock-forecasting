@@ -31,3 +31,7 @@ Interactive visualization of historical Netflix stock prices, allowing users to 
 Forecasted Netflix stock prices generated using the ARIMA Time Series model.
 
 ![Forecast](forecast.png)
+
+## 🌐 Live Demo
+
+*Application:* https://netflix-stock-forecasting-wtlkd9gesef4jsxgrmjegb.streamlit.app
