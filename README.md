@@ -11,3 +11,23 @@ An interactive data analytics dashboard that analyzes historical Netflix stock p
 This project demonstrates data preprocessing, visualization, statistical analysis, and forecasting through a user-friendly Streamlit interface.
 
 ---
+## 📸 Application Screenshots
+
+### 🏠 Dashboard
+The main dashboard displays key stock metrics, dataset information, and controls for forecasting.
+
+![Dashboard](dashboard.png)
+
+---
+
+### 📈 Interactive Stock Price Chart
+Interactive visualization of historical Netflix stock prices, allowing users to analyze trends over time.
+
+![Stock Chart](stock-chart.png)
+
+---
+
+### 🔮 Future Forecast
+Forecasted Netflix stock prices generated using the ARIMA Time Series model.
+
+![Forecast](forecast.png)
